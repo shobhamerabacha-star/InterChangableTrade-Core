@@ -7,8 +7,6 @@ build/
 *.tsbuildinfo
 
 # Env
-.env
-.env.local
 .env.*.local
 
 # Logs
@@ -24,7 +22,6 @@ coverage/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 .DS_Store
 
@@ -34,3 +31,4 @@ temp/
 
 # Uploaded dispute evidence (runtime artifacts)
 uploads/
+config.bat
